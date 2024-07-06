@@ -46,7 +46,7 @@ const c = () => {
 
 }
 
-
+// 5edmet ghoswa
 
 console.log(b())
 
