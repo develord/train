@@ -26,6 +26,7 @@ const jj = {
 
 var x = 0
 
+
 const b = () => {
     try {
         var f = 10 / 0
